@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="JenkinSample.OrgTest"/>
-      <class name="JenkinSample.ContactTest"/>
+      <class name="MavenSampleProj.OrgTest"/>
+      <class name="MavenSampleProj.ContactTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
